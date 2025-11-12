@@ -1,1 +1,1 @@
-alert("welcome to index.js!");
+alert("merge conflict in newbranch3");
